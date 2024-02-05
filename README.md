@@ -5,7 +5,7 @@
 - 📫 How to reach me: Email pndonga30@gmail.com
 - Tel: +254743087039
 - 😄 Pronouns: ...
-- ⚡ Fun fact: #printf I am coding 
+- ⚡ Fun fact: #printf I Love coding 
 
 <!---
 ndonga123/ndonga123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
