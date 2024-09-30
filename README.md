@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @ndonga123
-- 👀 I’m interested in coding, marketing, cars 
-- 🌱 I’m currently learning Bsc Information Technology at the University Of Embu
-- 💞️ I’m looking to collaborate on coding organizations, yards, Big organizations
-- 📫 How to reach me: Email pndonga30@gmail.com
-- Tel: +254743087039
-- 😄 Pronouns: ...
-- ⚡ Fun fact: #printf I Love coding 
+-
 
 <!---
 ndonga123/ndonga123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
